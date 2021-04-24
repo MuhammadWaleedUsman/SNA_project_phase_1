@@ -1,0 +1,889 @@
+formula,brand_name
+pregabalin,"Lyrica, Lyrica CRDrug "
+ropinirole,"Requip, Requip XL, ReQuip Follow on Pack, ReQuip Starter PackDrug "
+pramipexole,"Mirapex, Mirapex ERDrug "
+venlafaxine,"Effexor, Effexor XRDrug "
+paroxetine,"Paxil, Paxil CR, Brisdelle, PexevaDrug "
+citalopram,CelexaDrug 
+gabapentin,"Neurontin, Gralise, Gabarone, FanatrexDrug "
+tramadol,"Ultram, Tramadol Hydrochloride ER, Tramal, Ultram ERDrug "
+fluoxetine,"Prozac, Sarafem, Prozac Weekly, RapifluxDrug "
+aripiprazole,"Abilify, Abilify Maintena, Aristada, Aristada InitioDrug "
+rivastigmine,ExelonDrug 
+riluzole,"Rilutek, Tiglutik, ExservanDrug "
+bupropion,"Wellbutrin, Wellbutrin XL, Wellbutrin SR, ZybanDrug "
+tacrolimus,"Prograf, Envarsus XR, Astagraf XL, HecoriaDrug "
+ofloxacin,"Floxin, Floxin IVDrug "
+risperidone,"Risperdal, Risperdal Consta, Perseris, Risperdal M-TabDrug "
+selegiline,"Emsam, Eldepryl, Zelapar, CarbexDrug "
+pergolide,PermaxDrug 
+doxorubicin,"Adriamycin, Adriamycin PFS, Adriamycin RDFDrug "
+glatiramer acetate,
+topiramate,"Topamax, Trokendi XR, Qudexy XR, Topamax SprinkleDrug "
+thalidomide,ThalomidDrug 
+fluvoxamine,"Luvox, Luvox CRDrug "
+ciprofloxacin,"Cipro, Proquin XR, Cipro XR, Cipro Cystitis PackDrug "
+voriconazole,VfendDrug 
+medroxyprogesterone,"Depo-Provera, Provera, depo-subQ provera 104, CurretabDrug "
+posaconazole,NoxafilDrug 
+lenalidomide,RevlimidDrug 
+clomipramine,AnafranilDrug 
+olanzapine,"Zyprexa, Zyprexa Zydis, Zyprexa Relprevv, Zyprexa IntramuscularDrug "
+valdecoxib,BextraDrug 
+naproxen,"Aleve, Naprosyn, Anaprox, Naproxen Sodium DSDrug "
+rabeprazole,"Aciphex, Aciphex SprinkleDrug "
+mycophenolic acid,
+donepezil,"Aricept, Aricept ODTDrug "
+fentanyl,"Duragesic, Fentanyl Transdermal System, Sublimaze, FentoraDrug "
+saquinavir,"Invirase, FortovaseDrug "
+pantoprazole,"Protonix, Protonix IVDrug "
+lamotrigine,"Lamictal, Lamictal XR, Subvenite, Lamictal ODTDrug "
+capecitabine,XelodaDrug 
+diclofenac,"Voltaren, Cataflam, Cambia, ZipsorDrug "
+bortezomib,VelcadeDrug 
+5-aminosalicylic acid,
+quetiapine,"Seroquel, Seroquel XRDrug "
+moxifloxacin,"Avelox, Avelox I.V.Drug "
+sumatriptan,"Imitrex, Imitrex Statdose, Tosymra, Imitrex NasalDrug "
+tiagabine,GabitrilDrug 
+retinoic acid,
+leuprolide acetate,
+THA,
+ritonavir,NorvirDrug 
+sertraline,ZoloftDrug 
+zalcitabine,HividDrug 
+estradiol,"Estrace, Estradiol Patch, Climara, Vivelle-DotDrug "
+hydromorphone,"Dilaudid, Hydromorph Contin, Exalgo, Dilaudid-HPDrug "
+amphotericin B,
+celecoxib,"Celebrex, ElyxybDrug "
+zolpidem,"Ambien, Ambien CR, Zolpimist, EdluarDrug "
+lansoprazole,"Prevacid, Prevacid OTC, Prevacid SoluTab, Prevacid 24HRDrug "
+rapamycin,
+valproic acid,
+omeprazole,"Prilosec, Prilosec OTC, Omesec, Zegerid (Original Formulation)Drug "
+cidofovir,VistideDrug 
+propafenone,"Rythmol, Rythmol SRDrug "
+mirtazapine,"Remeron, Remeron SolTabDrug "
+progesterone,"Prometrium, Crinone, Endometrin, CyclogestDrug "
+nefazodone,SerzoneDrug 
+varenicline,"Chantix, ChampixDrug "
+delavirdine,RescriptorDrug 
+zaleplon,SonataDrug 
+cyclosporine,"Sandimmune, Gengraf, NeoralDrug "
+ziprasidone,GeodonDrug 
+flurbiprofen,AnsaidDrug 
+octreotide,"Sandostatin, Mycapssa, Sandostatin LAR Depot, Bynfezia PenDrug "
+oxcarbazepine,"Trileptal, Oxtellar XRDrug "
+Ras,
+tizanidine,ZanaflexDrug 
+tolcapone,TasmarDrug 
+zolmitriptan,"Zomig, Zomig Nasal Spray, Zomig-ZMTDrug "
+sildenafil,"Viagra, RevatioDrug "
+imatinib,GleevecDrug 
+lisinopril,"Zestril, Prinivil, QbrelisDrug "
+doxazosin,"Cardura, Cardura XL, Carduran, DoxaduraDrug "
+zopiclone,
+ertapenem,InvanzDrug 
+perindopril,AceonDrug 
+eletriptan,RelpaxDrug 
+duloxetine,"Cymbalta, Drizalma Sprinkle, IrenkaDrug "
+isosorbide-5-mononitrate,
+methylphenidate,"Ritalin, Concerta, Ritalin LA, Adhansia XRDrug "
+phenytoin,"Dilantin, Phenytoin Sodium, Phenytoin Sodium, Extended Release, PhenytekDrug "
+carbamazepine,"Tegretol, Carbatrol, Tegretol XR, EpitolDrug "
+rofecoxib,VioxxDrug 
+clozapine,"Clozaril, Clopine, FazaClo, ZaponexDrug "
+temozolomide,TemodarDrug 
+oxaliplatin,EloxatinDrug 
+acamprosate,CampralDrug 
+acitretin,"Soriatane, Soriatane CKDrug "
+memantine,"Namenda, Namenda XRDrug "
+diltiazem,"Cardizem, Cartia XT, Dilt-XR, Cardizem CDDrug "
+cetirizine,"Zyrtec, Aller-Tec, Zyrtec Hives, Children's ZyrtecDrug "
+ibuprofen,"Advil, Motrin, IBU, Motrin IBDrug "
+ursodeoxycholic acid,
+ganciclovir,CytoveneDrug 
+gliclazide,
+clonazepam,"Klonopin, Klonopin WaferDrug "
+indapamide,LozolDrug 
+ketorolac,"Toradol, Toradol IM, Sprix, Toradol IV/IMDrug "
+pilocarpine,SalagenDrug 
+leflunomide,AravaDrug 
+valganciclovir,ValcyteDrug 
+trovafloxacin,TrovanDrug 
+betaxolol,KerloneDrug 
+nifedipine,"Procardia, Adalat, Procardia XL, Nifedical XLDrug "
+docetaxel,"Taxotere, DocefrezDrug "
+fosphenytoin,"Cerebyx, SesquientDrug "
+budesonide,"Pulmicort Flexhaler, Pulmicort Turbuhaler, Uceris, Entocort ECDrug "
+naltrexone,"Vivitrol, Revia, DepadeDrug "
+zonisamide,ZonegranDrug 
+morphine,"MS Contin, Morphine Sulfate ER, Morphine Sulfate IR, RoxanolDrug "
+triamcinolone,"Kenalog-40, Aristocort, Zilretta, AzmacortDrug "
+dasatinib,SprycelDrug 
+carvedilol,"Coreg, Coreg CRDrug "
+oxycodone,"OxyContin, Roxicodone, Xtampza ER, OxyIRDrug "
+bicalutamide,CasodexDrug 
+methotrexate,"Rasuvo, Trexall, Otrexup, Methotrexate LPF SodiumDrug "
+levonorgestrel,"Mirena, Kyleena, Plan B, Plan B One-StepDrug "
+lomefloxacin,MaxaquinDrug 
+fenofibrate,"TriCor, Lofibra, Triglide, LipofenDrug "
+DCF,
+sibutramine,MeridiaDrug 
+losartan,CozaarDrug 
+gadofosveset trisodium,
+bosentan,TracleerDrug 
+atorvastatin,LipitorDrug 
+itraconazole,"Sporanox, Tolsura, OnmelDrug "
+testosterone,"AndroGel, Xyosted, Androderm, Depo-TestosteroneDrug "
+amiodarone,"Pacerone, Cordarone, Nexterone, Cordarone IVDrug "
+cytosine arabinoside,
+estrogen,
+baclofen,"Lioresal, Gablofen, Lioresal Intrathecal, OzobaxDrug "
+busulfan,"Myleran, BusulfexDrug "
+fluticasone,"Flovent, Flovent HFA, Arnuity Ellipta, Flovent DiskusDrug "
+TMC114,
+efavirenz,SustivaDrug 
+indomethacin,"Indocin, Tivorbex, Indocin SR, Indocin IVDrug "
+clopidogrel,PlavixDrug 
+ribavirin,"Rebetol, Virazole, Copegus, RibasphereDrug "
+modafinil,ProvigilDrug 
+bexarotene,TargretinDrug 
+etodolac,"Lodine, Lodine XLDrug "
+foscarnet,FoscavirDrug 
+meloxicam,"Mobic, Vivlodex, Anjeso, Qmiiz ODTDrug "
+naratriptan,AmergeDrug 
+trandolapril,MavikDrug 
+zoledronic acid,
+telmisartan,MicardisDrug 
+bisoprolol,ZebetaDrug 
+gatifloxacin,"Tequin, Tequin TeqpaqDrug "
+anagrelide,AgrylinDrug 
+cefpodoxime,VantinDrug 
+ropivacaine,"Naropin, Naropin SDV, Naropin Polyamp, Naropin NovaplusDrug "
+DR7,
+tamoxifen,"Nolvadex, Soltamox, Tamoxen, Tamoxifen HexalDrug "
+pamidronate,ArediaDrug 
+rizatriptan,"Maxalt, Maxalt-MLTDrug "
+paricalcitol,ZemplarDrug 
+fosinopril,MonoprilDrug 
+fludarabine,"Fludara, OfortaDrug "
+aprepitant,"Emend, CinvantiDrug "
+paclitaxel,"Taxol, OnxolDrug "
+mitoxantrone,NovantroneDrug 
+metronidazole,"Flagyl, Metro, Flagyl IV, Flagyl 375Drug "
+salbutamol,
+norfloxacin,NoroxinDrug 
+eprosartan,TevetenDrug 
+iopromide,UltravistDrug 
+piroxicam,FeldeneDrug 
+cyproterone,→ Search the entire Drugs.com site for cyproterone
+daunorubicin,CerubidineDrug 
+formoterol,"Perforomist, Foradil AerolizerDrug "
+entacapone,ComtanDrug 
+Bax,
+iodine,Drug 
+galantamine,"Razadyne, Reminyl, Razadyne ERDrug "
+propofol,"Diprivan, PropovenDrug "
+oxaprozin,"Daypro, Daypro AltaDrug "
+azithromycin,"Zithromax, Azithromycin Dose Pack, Z-Pak, ZmaxDrug "
+sulindac,ClinorilDrug 
+cilazapril,
+Ets,
+BCNU,
+clomiphene citrate,
+allopurinol,"Zyloprim, Aloprim, LopurinDrug "
+tigecycline,TygacilDrug 
+ramipril,AltaceDrug 
+arsenic trioxide,
+pravastatin,PravacholDrug 
+timolol,BlocadrenDrug 
+clindamycin,"Cleocin, Cleocin Pediatric, Cleocin HCl, Cleocin PhosphateDrug "
+buspirone,"BuSpar, VansparDrug "
+quinidine,"Quinaglute Dura-Tabs, Quinidex Extentabs, Cardioquin, QuinoraDrug "
+levetiracetam,"Keppra, Keppra XR, Spritam, RoweepraDrug "
+caspofungin,CancidasDrug 
+minocycline,"Minocin, Dynacin, Solodyn, XiminoDrug "
+alprazolam,"Xanax, Xanax XR, Alprazolam Intensol, NiravamDrug "
+gadoversetamide,OptiMARKDrug 
+enalapril,"Vasotec, EpanedDrug "
+cyclophosphamide,"Cytoxan, Cytoxan Lyophilized, NeosarDrug "
+frovatriptan,FrovaDrug 
+prostacyclin,
+risedronate,"Actonel, AtelviaDrug "
+penicillin G,
+candesartan,AtacandDrug 
+amiloride,MidamorDrug 
+metoprolol,"Metoprolol Succinate ER, Metoprolol Tartrate, Toprol-XL, LopressorDrug "
+anastrozole,ArimidexDrug 
+flecainide,TambocorDrug 
+meropenem,"Merrem, Merrem NovaplusDrug "
+fluvastatin,"Lescol, Lescol XLDrug "
+diazepam,"Valium, Diastat, Valtoco, Diastat AcuDialDrug "
+cyclobenzaprine,"Flexeril, Amrix, Fexmid, Comfort Pac with CyclobenzaprineDrug "
+procarbazine,MatulaneDrug 
+nabumetone,"Relafen, Relafen DSDrug "
+letrozole,FemaraDrug 
+ketoprofen,"Orudis, Orudis KT, Nexcede, OruvailDrug "
+ioversol,"Optiray 350, Optiray 160, Optiray 240, Optiray 300Drug "
+estazolam,ProsomDrug 
+oxybutynin,"Ditropan, Ditropan XL, Oxytrol, GelniqueDrug "
+amlodipine,"Norvasc, KaterziaDrug "
+buserelin,
+trazodone,"Desyrel, Oleptro, Desyrel DividoseDrug "
+remifentanil,UltivaDrug 
+micafungin,MycamineDrug 
+nicotinic acid,
+SU11248,
+atomoxetine,StratteraDrug 
+salmeterol,Serevent DiskusDrug 
+zidovudine,RetrovirDrug 
+dolasetron,AnzemetDrug 
+telithromycin,"Ketek, Ketek PakDrug "
+nabilone,CesametDrug 
+porfimer sodium,
+mefenamic acid,
+lanreotide,Somatuline DepotDrug 
+ads,
+irinotecan,CamptosarDrug 
+gemifloxacin,FactiveDrug 
+dexamethasone,"Decadron, Dexamethasone Intensol, Dexasone, Decadron Phosphate, InjectableDrug "
+5-fluorouracil,
+quinapril,AccuprilDrug 
+cerivastatin,BaycolDrug 
+clarithromycin,"Biaxin, Biaxin XLDrug "
+linezolid,ZyvoxDrug 
+9-hydroxyrisperidone,
+iodixanol,VisipaqueDrug 
+desipramine,NorpraminDrug 
+cortisol,
+imiquimod,"Aldara, ZyclaraDrug "
+tegaserod,ZelnormDrug 
+vardenafil,"Levitra, StaxynDrug "
+vincristine,"Oncovin, Vincasar PFSDrug "
+terazosin,HytrinDrug 
+nelarabine,ArranonDrug 
+verapamil,"Calan, Calan SR, Verelan, Isoptin SRDrug "
+goserelin,"Zoladex, Zoladex 3-MonthDrug "
+irbesartan,AvaproDrug 
+cefaclor,"Ceclor, Ceclor CD, Raniclor, Ceclor PulvulesDrug "
+acyclovir,"Zovirax, SitavigDrug "
+gemcitabine,"Gemzar, InfugemDrug "
+sulfasalazine,"Azulfidine, Sulfazine, Azulfidine EN-tabsDrug "
+famotidine,"Pepcid, Pepcid AC, Pepcid Oral Suspension, Heartburn ReliefDrug "
+prostaglandin E1,
+simvastatin,"Zocor, FloLipidDrug "
+lorazepam,"Ativan, Ativan Injection, Lorazepam IntensolDrug "
+atropine,"AtroPen, Atreza, Sal-TropineDrug "
+lithium,"Lithium Carbonate ER, Eskalith, Lithobid, Eskalith-CRDrug "
+dihydroergotamine,"Migranal, D.H.E. 45Drug "
+benazepril,LotensinDrug 
+erlotinib,TarcevaDrug 
+exemestane,AromasinDrug 
+atenolol,TenorminDrug 
+almotriptan,AxertDrug 
+sulfisoxazole,"Gantrisin, Gantrisin Pediatric, TruxazoleDrug "
+pimecrolimus,ElidelDrug 
+flunisolide,"Aerobid, Aerobid-M, Aerospan HFADrug "
+lidocaine,"Xylocaine-MPF, Xylocaine HCl, Lidoject 1, Xylocaine Dental CartridgesDrug "
+clonidine,"Catapres, Kapvay, Catapres-TTS, Clonidine ERDrug "
+lovastatin,"Mevacor, Altoprev, AltocorDrug "
+dipyridamole,"Persantine, Persantine IVDrug "
+perphenazine,TrilafonDrug 
+butorphanol,StadolDrug 
+prednisolone,"Orapred, Prelone, Predicort RP, MillipredDrug "
+acebutolol,SectralDrug 
+gefitinib,IressaDrug 
+metolazone,"Zaroxolyn, MykroxDrug "
+mexiletine,MexitilDrug 
+amitriptyline,"Elavil, Endep, VanatripDrug "
+lamivudine,"Epivir, Epivir-HBVDrug "
+captopril,CapotenDrug 
+granisetron,"Kytril, Sancuso, Sustol, GranisolDrug "
+olmesartan medoxomil,
+felodipine,PlendilDrug 
+cisapride,PropulsidDrug 
+bicarbonate,
+moricizine,EthmozineDrug 
+nilutamide,NilandronDrug 
+fluphenazine,"Prolixin, Prolixin Decanoate, Permitil, Prolixin EnanthateDrug "
+furosemide,"Lasix, Diaqua-2, Lo-AquaDrug "
+tipranavir,AptivusDrug 
+tiotropium,"Spiriva, Spiriva RespimatDrug "
+vinorelbine,NavelbineDrug 
+misoprostol,CytotecDrug 
+cefdinir,"Omnicef, Omnicef Omni-PacDrug "
+fenoprofen,"Nalfon, ProFeno, FenorthoDrug "
+prazosin,MinipressDrug 
+nicotine,"Nicorette, Nicoderm CQ, Leader Nicotine Polacrilex, Nicotrol InhalerDrug "
+amsacrine,
+imipramine,"Tofranil, Tofranil-PMDrug "
+amoxapine,AsendinDrug 
+etoposide,"VePesid, Etopophos, ToposarDrug "
+pentoxifylline,"Trental, PentoxilDrug "
+cisplatin,"Platinol, Platinol-AQDrug "
+iopamidol,"Isovue-370, Isovue-300, Isovue-200, Isovue-250Drug "
+metformin,"Glucophage, Glumetza, Glucophage XR, FortametDrug "
+montelukast,SingulairDrug 
+rosuvastatin,"Crestor, EzallorDrug "
+labetalol,"Normodyne, TrandateDrug "
+cabergoline,DostinexDrug 
+cromolyn,"Gastrocrom, Intal, Intal InhalerDrug "
+azelastine,"Astelin, AsteproDrug "
+trospium chloride,
+tadalafil,"Cialis, Adcirca, AlyqDrug "
+protriptyline,VivactilDrug 
+stavudine,"Zerit, Zerit XRDrug "
+maprotiline,LudiomilDrug 
+bupivacaine,"Marcaine, Xaracoll, Sensorcaine, PosimirDrug "
+iothalamate,"Cysto-Conray, Conray, Cysto-Conray II, Conray-30Drug "
+cefuroxime,"Ceftin, Zinacef, KefuroxDrug "
+melphalan,"Alkeran, EvomelaDrug "
+sotalol,"Betapace, Sotalol Hydrochloride AF, Betapace AF, SotylizeDrug "
+treprostinil,"Tyvaso, Remodulin, OrenitramDrug "
+valacyclovir,ValtrexDrug 
+mometasone,"Asmanex Twisthaler, Asmanex HFADrug "
+flumazenil,RomaziconDrug 
+nortriptyline,"Pamelor, Aventyl HydrochlorideDrug "
+midazolam,"Versed, Nayzilam, SeizalamDrug "
+nitrofurantoin,"Macrobid, Macrodantin, Furadantin, Nitro MacroDrug "
+trimipramine,SurmontilDrug 
+D-penicillamine,
+megestrol,"Megace, Megace ESDrug "
+ifosfamide,IfexDrug 
+nelfinavir,ViraceptDrug 
+amphetamine,"Adzenys XR-ODT, Evekeo, Adzenys ER, Dyanavel XRDrug "
+esmolol,BreviblocDrug 
+chlorpromazine,"Thorazine, OrmazineDrug "
+ipratropium bromide,
+ranitidine,"Zantac, Zantac 150, Taladine, Acid ReducerDrug "
+cefditoren,SpectracefDrug 
+vigabatrin,"Sabril, VigadroneDrug "
+TDF,
+fluocinolone acetonide,
+mefloquine,LariamDrug 
+methadone,"Dolophine, Methadone Diskets, Methadose, Methadose Sugar-FreeDrug "
+glipizide,"Glucotrol, GlipiZIDE XL, Glucotrol XLDrug "
+propranolol,"Inderal, Inderal LA, Hemangeol, Inderal XLDrug "
+Implanon,
+CFB,
+pindolol,ViskenDrug 
+dexmedetomidine,PrecedexDrug 
+valsartan,"Diovan, PrexxartanDrug "
+buprenorphine,"Subutex, Belbuca, Butrans, SublocadeDrug "
+trifluoperazine,StelazineDrug 
+aztreonam,"Azactam, CaystonDrug "
+N-0437,
+brimonidine,"Alphagan P, Alphagan, Lumify, QolianaDrug "
+rifampicin,
+terbinafine,"Lamisil, TerbinexDrug "
+ondansetron,"Zofran, Zofran ODT, ZuplenzDrug "
+indinavir,CrixivanDrug 
+disopyramide,"Norpace, Norpace CRDrug "
+urofollitropin,"Bravelle, Metrodin, FertinexDrug "
+topotecan,HycamtinDrug 
+diflunisal,DolobidDrug 
+abacavir,ZiagenDrug 
+guanfacine,"Intuniv, TenexDrug "
+rifaximin,XifaxanDrug 
+gemfibrozil,LopidDrug 
+amantadine,"Symmetrel, Gocovri, Osmolex ERDrug "
+palonosetron,AloxiDrug 
+ceftriaxone,RocephinDrug 
+prochlorperazine,"Compazine, Compro, Compazine Spansule, ProcotDrug "
+chlorambucil,LeukeranDrug 
+bromocriptine,"Parlodel, CyclosetDrug "
+pipotiazine,
+heparin,Heparin SodiumDrug 
+tamsulosin,FlomaxDrug 
+2-chlorodeoxyadenosine,
+diazoxide,"Proglycem, Hyperstat IV, HyperstatDrug "
+sevoflurane,"Ultane, SojournDrug "
+danazol,DanocrineDrug 
+tobramycin,"Nebcin, Tobi, TOBI Podhaler, BethkisDrug "
+dantrolene,"Dantrium, Ryanodex, Revonto, Dantrium IntravenousDrug "
+thiothixene,NavaneDrug 
+verteporfin,VisudyneDrug 
+nicardipine,"Cardene, Cardene SR, Cardene IVDrug "
+15-methyl-PGF2alpha,
+alosetron,LotronexDrug 
+moexipril,UnivascDrug 
+bleomycin,"Blenoxane, Bleo 15kDrug "
+hydrochlorothiazide,"Microzide, HydroDIURIL, Esidrix, OreticDrug "
+methylprednisolone,"Medrol, Medrol Dosepak, Solu-Medrol, Depo-MedrolDrug "
+nizatidine,"Axid, Axid AR, Axid Pulvules, Axid Oral SolutionDrug "
+orlistat,"Xenical, AlliDrug "
+ciclesonide,AlvescoDrug 
+alfuzosin,UroxatralDrug 
+isradipine,"DynaCirc CR, DynacircDrug "
+thioridazine,"Mellaril, Mellaril-SDrug "
+raloxifene,EvistaDrug 
+oseltamivir,TamifluDrug 
+carnitine,
+DDAVP,
+ICL670,
+bimatoprost,"Lumigan, DurystaDrug "
+mesna,MesnexDrug 
+Ly,
+haloperidol,"Haldol, Haldol DecanoateDrug "
+articaine,"Septocaine, Articadent, Orabloc, Ultacan ForteDrug "
+gadodiamide,OmniscanDrug 
+nalbuphine,NubainDrug 
+loxapine,"Loxitane, Adasuve, Loxitane C, Loxitane IMDrug "
+ibandronate,BonivaDrug 
+encainide,
+calcitriol,"Rocaltrol, CalcijexDrug "
+methyldopa,AldometDrug 
+hydroxyurea,"Hydrea, Siklos, Droxia, MylocelDrug "
+thiotepa,"Tepadina, ThioplexDrug "
+N-butyldeoxynojirimycin,
+doxepin,"Sinequan, Silenor, AdapinDrug "
+desferrioxamine,
+ambrisentan,LetairisDrug 
+PGE2,
+mesoridazine,SerentilDrug 
+ticlopidine,TiclidDrug 
+gentamicin,"Garamycin, Cidomycin, SeptopalDrug "
+promethazine,"Phenergan, Promethegan, Anergan 50, AdganDrug "
+tiludronate,SkelidDrug 
+didanosine,"Videx, Videx ECDrug "
+cefepime,MaxipimeDrug 
+metoclopramide,"Reglan, Maxolon, Gimoti, Metozolv ODTDrug "
+cephem,
+carboplatin,"Paraplatin, Carboplatin NovaplusDrug "
+fluconazole,DiflucanDrug 
+darifenacin,EnablexDrug 
+hydroxychloroquine,"Plaquenil, QuineproxDrug "
+sodium iothalamate,
+methysergide,→ Search the entire Drugs.com site for methysergide
+fexofenadine,"Allegra, Allegra Allergy, Allegra Hives, Aller-EaseDrug "
+doxycycline,"Vibramycin, Oracea, Monodox, AdoxaDrug "
+pemetrexed,"Alimta, PemfexyDrug "
+ceftazidime,"Fortaz, Ceptaz, Tazidime, Tazicef NovaplusDrug "
+atovaquone,MepronDrug 
+glimepiride,AmarylDrug 
+tinidazole,"Tindamax, FasigynDrug "
+adenosine,"Adenocard, Adenoscan, Adeno-jec, My-O-DenDrug "
+meclofenamate,MeclomenDrug 
+5-fluorocytosine,
+fondaparinux sodium,
+cephalexin,"Keflex, Zartan, Panixine, KeftabDrug "
+apraclonidine,IopidineDrug 
+cyproheptadine,PeriactinDrug 
+Hexabrix 320,
+nevirapine,"Viramune, Viramune XRDrug "
+minoxidil,LonitenDrug 
+idarubicin,"Idamycin PFS, IdamycinDrug "
+polyglutamine,
+balsalazide,"Colazal, GiazoDrug "
+mephenytoin,MesantoinDrug 
+warfarin,"Coumadin, JantovenDrug "
+triazolam,HalcionDrug 
+thymidine,
+pyridostigmine,"Mestinon, Regonol, Mestinon TimespanDrug "
+phenelzine,NardilDrug 
+acetazolamide,"Diamox, Diamox SequelsDrug "
+chlorothiazide,"Diuril, Diuril SodiumDrug "
+fludrocortisone,"Florinef, Florinef AcetateDrug "
+dofetilide,TikosynDrug 
+tolmetin,"Tolectin 600, Tolectin, Tolectin DSDrug "
+procainamide,"Pronestyl, Procan SR, Procanbid, Pronestyl-SRDrug "
+nadolol,CorgardDrug 
+mepivacaine,"Carbocaine, Isocaine, Polocaine, Scandonest PlainDrug "
+fosfomycin,MonurolDrug 
+meprobamate,"Equanil, MB-TAB, MiltownDrug "
+gadoteridol,ProhanceDrug 
+alendronate,"Fosamax, BinostoDrug "
+rimantadine,FlumadineDrug 
+rifapentine,PriftinDrug 
+nitroglycerin,"Nitrostat, Nitro-Bid, Nitro-Dur, TridilDrug "
+mifepristone,"Mifeprex, KorlymDrug "
+tPA,
+flurazepam,DalmaneDrug 
+cefotaxime,ClaforanDrug 
+clobetasol,"Temovate, Clobex, Dermovate, ClobevateDrug "
+cefoxitin,MefoxinDrug 
+auranofin,RidauraDrug 
+O-desmethylvenlafaxine,
+cefixime,SupraxDrug 
+bezafibrate,
+colestipol,"Colestid, Colestid FlavoredDrug "
+toremifene,FarestonDrug 
+diethylpropion,"Tenuate, Tenuate Dospan, TepanilDrug "
+bendrofluazide,
+estramustine,EmcytDrug 
+sulfadiazine,Drug 
+thyroxine,
+aliskiren,TekturnaDrug 
+raltitrexed,→ Search the entire Drugs.com site for raltitrexed
+dicloxacillin,"Pathocil, Dynapen, DycillDrug "
+pentazocine,TalwinDrug 
+repaglinide,PrandinDrug 
+vinblastine,VelbanDrug 
+zafirlukast,AccolateDrug 
+cefadroxil,DuricefDrug 
+cefazolin,"Ancef, KefzolDrug "
+piperacillin,PipracilDrug 
+pirbuterol,"Maxair, Maxair AutohalerDrug "
+fulvestrant,FaslodexDrug 
+tolterodine,"Detrol, Detrol LADrug "
+cysteamine,"Cystagon, ProcysbiDrug "
+clemastine,"Tavist, 12 Hour Allergy Relief, Tavist Allergy, Dayhist-1Drug "
+CLT,
+cefprozil,CefzilDrug 
+diphenhydramine,"Benadryl, Banophen, Benadryl Allergy, ZzzQuilDrug "
+travoprost,"Travatan, Travatan Z, IzbaDrug "
+ACA,
+lincomycin,"Lincocin, Bactramycin, Lincorex, L-MycinDrug "
+tetracycline,"Sumycin, Ala-Tet, Tetracon, Achromycin VDrug "
+cimetidine,"Tagamet, Tagamet HB, Acid Reducer-Cimetidine, Equaline Acid ReducerDrug "
+amoxicillin,"Amoxil, Trimox, Moxatag, AmoxicotDrug "
+teniposide,VumonDrug 
+halofantrine,HalfanDrug 
+argatroban,AcovaDrug 
+rosiglitazone,AvandiaDrug 
+methyclothiazide,"Enduron, AquatensenDrug "
+glycopyrrolate,"Robinul, Lonhala Magnair, Cuvposa, Seebri NeohalerDrug "
+dexrazoxane,"Totect, ZinecardDrug "
+desloratadine,"Clarinex, Aerius, Clarinex Reditabs, NeoclaritynDrug "
+ketoconazole,NizoralDrug 
+ezetimibe,ZetiaDrug 
+Na,
+cinoxacin,CinobacDrug 
+levobunolol,"Betagan, AK-Beta, Betagan C-CapDrug "
+chlorhexidine,"Peridex, Hibiclens, Paroex, BetaseptDrug "
+ethambutol,MyambutolDrug 
+carbinoxamine,"Ryvent, Palgic, Pediatex, Karbinal ERDrug "
+glibenclamide,
+procaine,"Novocain, MericaineDrug "
+FTC,
+mitomycin C,
+compendium,
+delta 9-tetrahydrocannabinol,
+hydralazine,ApresolineDrug 
+unoprostone,ResculaDrug 
+mannitol,"Osmitrol, Bronchitol, Resectisol, AridolDrug "
+torasemide,
+EHDP,
+ibutilide,CorvertDrug 
+dicyclomine,"Bentyl, Dicyclocot, Bentyl Syrup, BemoteDrug "
+erythromycin,"Erythrocin, Ery-Tab, EryPed, E-MycinDrug "
+amifostine,EthyolDrug 
+choline theophyllinate,
+pimozide,OrapDrug 
+thiabendazole,MintezolDrug 
+ketotifen,"Zaditor, Alaway, Claritin Eye, Zyrtec Itchy Eye DropsDrug "
+naloxone,"Narcan Nasal Spray, Evzio, Narcan InjectionDrug "
+flutamide,EulexinDrug 
+4-methylpyrazole,
+norethisterone,
+zanamivir,RelenzaDrug 
+famciclovir,FamvirDrug 
+LCBF,
+guanethidine,IsmelinDrug 
+methsuximide,CelontinDrug 
+methocarbamol,"Robaxin, Robaxin-750, Carbacot, SkelexDrug "
+RelA,
+demeclocycline,DeclomycinDrug 
+ivermectin,StromectolDrug 
+nebivolol,BystolicDrug 
+midodrine,"ProAmatine, OrvatenDrug "
+chlorpheniramine,"Allergy Relief, Chlor-Trimeton, Teldrin HBP Allergy, ChlorphenDrug "
+clofazimine,LampreneDrug 
+solifenacin succinate,
+olopatadine,PatanaseDrug 
+oxacillin,BactocillDrug 
+fenoldopam,CorlopamDrug 
+nitrogen mustard,
+propylthiouracil,Drug 
+ethacrynic acid,
+ethionamide,"Trecator, Trecator-SCDrug "
+azathioprine,"Imuran, AzasanDrug "
+rifabutin,MycobutinDrug 
+digoxin,"Lanoxin, Digox, Digitek, LanoxicapsDrug "
+2-chloroprocaine,
+bumetanide,BumexDrug 
+vancomycin,"Vancocin, Firvanq, Vancocin HCl, LyphocinDrug "
+dacarbazine,DTIC-DomeDrug 
+apomorphine,"Kynmobi, Apokyn, Uprima, APO-GoDrug "
+galactose,
+reserpine,Drug 
+nimodipine,"Nimotop, NymalizeDrug "
+prednisone,"Deltasone, Rayos, Meticorten, SterapredDrug "
+meperidine,"Demerol, MeperitabDrug "
+nedocromil sodium,
+N-trifluoroacetyladriamycin-14-valerate,
+aminophylline,"Phyllocontin, TruphyllineDrug "
+ethosuximide,ZarontinDrug 
+isocarboxazid,MarplanDrug 
+desflurane,SupraneDrug 
+chlorthalidone,"Hygroton, ThalitoneDrug "
+cinacalcet,SensiparDrug 
+ceftizoxime,CefizoxDrug 
+metipranolol,OptiPranololDrug 
+cefotetan,CefotanDrug 
+N-acetylcysteine,
+nitrazepam,
+theophylline,"Theo-Dur, Theo-24, Uniphyl, Quibron-T/SRDrug "
+vitamin B12,
+alpha-methyl-p-tyrosine,
+ethylenediaminetetraacetic acid,
+latanoprost,"Xalatan, XelprosDrug "
+clodronate,
+loperamide,"Imodium, Imodium A-D, Anti-Diarrheal, Pepto Diarrhea ControlDrug "
+streptozotocin,
+pioglitazone,ActosDrug 
+beclomethasone,"Qvar, Qvar RediHaler, Vanceril, BecloventDrug "
+polythiazide,ReneseDrug 
+trihexyphenidyl,"Artane, Trihexy, TrihexaneDrug "
+cortisone,Cortone AcetateDrug 
+aminoglutethimide,CytadrenDrug 
+iloprost,VentavisDrug 
+chloroquine,"Aralen, Aralen Hydrochloride, Aralen PhosphateDrug "
+mupirocin,"Bactroban, Bactroban Nasal, Centany, Centany AT KitDrug "
+molindone,MobanDrug 
+temazepam,RestorilDrug 
+nateglinide,StarlixDrug 
+carteolol,CartrolDrug 
+Gd-EOB-DTPA,
+tetrahydrobiopterin,
+domperidone,→ Search the entire Drugs.com site for domperidone
+hydroflumethiazide,"Saluron, DiucardinDrug "
+phosphate,
+GLY,
+gadobutrol,GadavistDrug 
+metaproterenol,"Alupent, MetaprelDrug "
+apolar,
+chloramphenicol,"Chloromycetin, Chloromycetin Sodium Succinate, ChloracolDrug "
+methazolamide,"Neptazane, MZM, GlauctabsDrug "
+sevelamer,"Renvela, RenagelDrug "
+doxapram,DopramDrug 
+fosamprenavir,"Lexiva, TelzirDrug "
+isoniazid,NydrazidDrug 
+penbutolol,LevatolDrug 
+brinzolamide,AzoptDrug 
+bretylium,BretylolDrug 
+oxazepam,SeraxDrug 
+tirofiban,AggrastatDrug 
+finasteride,"Proscar, PropeciaDrug "
+eplerenone,InspraDrug 
+methohexital,Brevital SodiumDrug 
+sufentanil,"Sufenta, DsuviaDrug "
+tolazamide,TolinaseDrug 
+probenecid,BenemidDrug 
+ranolazine,RanexaDrug 
+albendazole,AlbenzaDrug 
+hydroxocobalamin,"Cyanokit, Hydroxy-Cobal, Hydro-Cobex, Cobalin-HDrug "
+oxymetholone,Anadrol-50Drug 
+chlorpropamide,DiabineseDrug 
+nitric oxide,
+aspirin,"Aspir 81, Acetylsalicylic Acid, Ecotrin, Bayer AspirinDrug "
+methylergometrine,
+ketamine,KetalarDrug 
+methimazole,"Tapazole, NorthyxDrug "
+alfentanil,AlfentaDrug 
+pentobarbital,"Nembutal, Nembutal SodiumDrug "
+secobarbital,"Seconal, Seconal Sodium, Seconal Sodium PulvulesDrug "
+oxytetracycline,TerramycinDrug 
+praziquantel,BiltricideDrug 
+leucovorin,WellcovorinDrug 
+trimethoprim,"Primsol, Trimpex, ProloprimDrug "
+adapalene,"Differin, PlixdaDrug "
+adefovir dipivoxil,
+benztropine,CogentinDrug 
+ETV,
+6-thioguanine,
+rocuronium,ZemuronDrug 
+triamterene,DyreniumDrug 
+sucralfate,CarafateDrug 
+spironolactone,"Aldactone, CaroSpirDrug "
+gold sodium thiomalate,
+DFMO,
+carbenicillin,GeocillinDrug 
+carbenicillin indanyl sodium,
+eptifibatide,IntegrilinDrug 
+ampicillin,"Omnipen, Principen, Omnipen-N, Totacillin-NDrug "
+Cantril,
+amikacin,"Amikin, Amikin PediatricDrug "
+8-methoxypsoralen,
+orphenadrine,"Norflex, Norflex Injectable, Flexon, FlexojectDrug "
+epinephrine,"EpiPen, Adrenalin, Auvi-Q, Primatene MistDrug "
+methamphetamine,"Desoxyn, Desoxyn GradumetDrug "
+mercaptopurine,"Purixan, PurinetholDrug "
+phentolamine,"Regitine, OraVerseDrug "
+tolbutamide,"Orinase, Tol-TabDrug "
+capreomycin,"Capastat, Capastat SulfateDrug "
+propantheline,Pro-BanthineDrug 
+silver sulfadiazine,
+19-nortestosterone,
+vitamin D,
+streptomycin,Drug 
+isoproterenol,"Isuprel, Isuprel Mistometer, Medihaler-IsoDrug "
+mecamylamine,"Inversine, VecamylDrug "
+fluoxymesterone,"Halotestin, AndroxyDrug "
+loratadine,"Claritin, Alavert, Allergy Relief Tablets, Claritin 24 Hour AllergyDrug "
+Buscopan,
+ethotoin,PeganoneDrug 
+folate,
+griseofulvin,"Grifulvin V, Griseofulicin, Gris-PEG, Fulvicin P/GDrug "
+cycloserine,"Seromycin, Seromycin PulvulesDrug "
+pyrazinamide,Drug 
+azelaic acid,
+KCl,
+amrinone,
+amprenavir,AgeneraseDrug 
+kanamycin,KantrexDrug 
+terbutaline,"Brethine, Bricanyl, BrethaireDrug "
+isoflurane,"Forane, TerrellDrug "
+halobetasol propionate,
+desoximetasone,"Topicort, Topicort LPDrug "
+colesevelam hydrochloride,
+pemoline,CylertDrug 
+CCNU,
+prednicarbate,DermatopDrug 
+dutasteride,AvodartDrug 
+droperidol,InapsineDrug 
+propoxyphene,"Darvon, PP-Cap, Darvon-NDrug "
+fluorescein,"Fluorescite, Angioscein, AK-Fluor, FundusceinDrug "
+penicillin V,
+succinylcholine,"Anectine, Quelicin, Anectine Flo-PackDrug "
+oxytocin,"Pitocin, SyntocinonDrug "
+troglitazone,RezulinDrug 
+clotrimazole,"Mycelex Troche, Clotrimazole TrocheDrug "
+fluocinonide,"Lidex, Vanos, Fluocinonide-E, FluexDrug "
+cyclopentolate,"Cyclogyl, Pentolair, Cylate, Ocu-PentolateDrug "
+acarbose,PrecoseDrug 
+tolazoline,Drug 
+mitotane,LysodrenDrug 
+lodoxamide,AlomideDrug 
+methyltestosterone,"Android, Testred, Methitest, VirilonDrug "
+mafenide acetate,
+DMP,
+POD,
+cephradine,VelosefDrug 
+trimetrexate,NeutrexinDrug 
+dopamine,"Intropin, Myocard-DXDrug "
+bethanechol,"Urecholine, Duvoid, MyotonacholDrug "
+iodipamide,Cholografin MeglumineDrug 
+NaCl,
+nitroprusside,"Nitropress, Nipride RTUDrug "
+rimexolone,VexolDrug 
+miconazole,OravigDrug 
+nystatin,"Mycostatin, Nystat-Rx, Nilstat, Mycostatin PastillesDrug "
+iohexol,"Omnipaque 9, Omnipaque 350, Omnipaque 300, Myelo-KitDrug "
+norepinephrine,"Levophed, Levophed BitartrateDrug "
+atracurium,TracriumDrug 
+milrinone,"Primacor, Primacor I.V.Drug "
+mivacurium,MivacronDrug 
+HTM,
+dobutamine,DobutrexDrug 
+halcinonide,"Halog, Halog-EDrug "
+flavoxate,UrispasDrug 
+pyrimethamine,DaraprimDrug 
+dapsone,Drug 
+ciclopirox,"Penlac, Loprox, Ciclodan, Penlac Nail LacquerDrug "
+phentermine,"Adipex-P, Lomaira, Fastin, SuprenzaDrug "
+sincalide,KinevacDrug 
+pizotifen,
+amcinonide,CyclocortDrug 
+etomidate,AmidateDrug 
+Mn-DPDP,
+primidone,MysolineDrug 
+delta-aminolevulinic acid,
+doxacurium,NuromaxDrug 
+cefoperazone,CefobidDrug 
+levocabastine,LivostinDrug 
+fluorometholone,"FML, Flarex, FML S.O.P., FML LiquifilmDrug "
+permethrin,"Elimite, Nix, Acticin, Quellada Scabies TreatmentDrug "
+vitamin K1,
+calcipotriol,
+actinomycin D,
+calcium,"Zingiber, Focalgin-B, B-NexaDrug "
+procyclidine,KemadrinDrug 
+HMS,
+disulfiram,AntabuseDrug 
+Metvix,
+caffeine,"Vivarin, Lucidex, NoDoz, Jet Alert Double StrengthDrug "
+pinaverium bromide,
+ergotamine,ErgomarDrug 
+vecuronium,NorcuronDrug 
+flumethasone,
+ambenonium,"Mytelase Chloride, MytelaseDrug "
+pralidoxime,Protopam ChlorideDrug 
+REGION,
+tazarotene,"Tazorac, Fabior, Arazlo, AvageDrug "
+enflurane,"Ethrane, Compound 374Drug "
+chlordiazepoxide,"Librium, Libritabs, Poxi, MitranDrug "
+cisatracurium,NimbexDrug 
+tranexamic acid,
+Lambda,
+isoxsuprine,"Vasodilan, VoxsuprineDrug "
+alclometasone,AclovateDrug 
+naphazoline,PrivineDrug 
+flurandrenolone,
+pancuronium,PavulonDrug 
+tropicamide,"Mydriacyl, Tropicacyl, Opticyl, Ocu-TropicDrug "
+biperiden,"Akineton, Akineton HClDrug "
+chlorzoxazone,"Parafon Forte DSC, Lorzone, Paraflex, RelaxazoneDrug "
+soothe,
+emedastine,EmadineDrug 
+mebendazole,"Vermox, EmvermDrug "
+triiodothyronine,
+hydroxyzine,"Vistaril, Atarax, Hyzine, VistazineDrug "
+lindane,Drug 
+betahistine,
+sulfinpyrazone,AnturaneDrug 
+penciclovir,DenavirDrug 
+L-tryptophan,
+L-arginine,
+p-aminohippuric acid,
+oxiconazole,OxistatDrug 
+spectinomycin,TrobicinDrug 
+lactulose,"Constulose, Enulose, Duphalac, ChronulacDrug "
+dipivefrin,"Propine, AK-ProDrug "
+epinastine,ElestatDrug 
+halothane,FluothaneDrug 
+suprofen,ProfenalDrug 
+terconazole,"Terazol, Terazol 7, Terazol 3, ZazoleDrug "
+methenamine,"Hiprex, Urex, MandelamineDrug "
+carbachol,"Isopto Carbachol, Miostat, Carbastat, CarbopticDrug "
+isosorbide dinitrate,
+lactate,
+benzydamine,
+magnesium,→ Search the entire Drugs.com site for magnesium
+primaquine,Drug 
+acetylcholine,"Miochol, Miochol-E, Miochol Plus, Miochol-E/Steri-TagsDrug "
+metyrapone,MetopironeDrug 
+sodium bicarbonate,
+Tadenan,
+bacitracin,"BACiiM, Baci-RxDrug "
+echothiophate,
+SZ,
+miglitol,GlysetDrug 
+GABA,
+neomycin,"Mycifradin, Neo-Fradin, Neo-TabDrug "
+phenoxybenzamine,DibenzylineDrug 
+proparacaine,"Alcaine, Ophthaine, Ophthetic, AK-TaineDrug "
+Tris buffer,
+oxandrolone,OxandrinDrug 
+NH4Cl,
+betaine,CystadaneDrug 
+butoconazole,"Gynazole-1, Femstat 3, Mycelex-3, Femstat PrefillDrug "
+trifluorothymidine,
+benzoyl peroxide,
+naftifine,"Naftin, Naftin-MPDrug "
+acetate,
+volley,
+5-iodo-2'-deoxyuridine,
+econazole,"Spectazole, EcozaDrug "
+paromomycin,"Paromycin, HumatinDrug "
+monamine,
+hexachlorophene,"pHisoHex, Septisol FoamDrug "
+Alba,
+SEs,
+vitamin A,
+MBF,
+sulconazole,ExeldermDrug 
+AAS,
+sodium acetate,
+malathion,OvideDrug 
